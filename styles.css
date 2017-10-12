@@ -1,0 +1,47 @@
+.button {
+  width: 70px;
+  height: 50px;
+  border: 1px solid grey;
+}
+
+.button:hover {
+  	transform: scale(1.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  	}
+
+
+.display input {
+  position: relative;
+  left: 2px;
+  top: 2px;
+  height: 35px;
+  width: 250px;
+  color: black;
+  text-align: right;
+  font-size: 21px;
+  border: 1px solid black;
+  margin-top: 25px;
+}
+
+.box {
+	border: 1px solid grey;
+	width: 325px;
+	background-color: blue;
+}
+
+.keys {}
+
+
+.gray {
+	background-color: grey;
+
+}
+.pink {
+	background-color: pink;
+}
+.red {
+	background-color: red;
+}
+.orange {
+	background-color: orange;
+}
